@@ -1,7 +1,13 @@
-# blog-python_flask
+
+![Blog Impressionador!](https://github.com/Rafael-Lee1/blog-python_flask/blob/2e97ac7e4b2fb1ed76c4a0cebda1a2e8af9ef9f0/WELCOME.gif)
+# Blog Impressionador!
+
+
  Blog de uma comunidade fictícia onde e possível alunos, experts e a galera Desenvolvedora trocar ideias, criar posts, ver informações dos outros usuários, o que a galera esta falando etc...Blog com funcionalidades básicas utilizando Python( Micro-Framework Flask ) no Back-End e Bootstrap no Front-End.
 
-Requirements:
+#### Python/Flask
+
+<b>Requirements:</b>
 bcrypt==4.0.0
 click==8.1.3
 colorama==0.4.5
