@@ -13,7 +13,7 @@
 
 # Descrição
 
- Blog de uma comunidade fictícia onde e possível alunos, experts e a galera Desenvolvedora trocar ideias, criar posts, ver informações dos outros usuários, o que a galera esta falando etc...Blog com funcionalidades básicas utilizando Python( Micro-Framework Flask ) no Back-End e Bootstrap no Front-End.
+ Seja muito bem vinda(o)!Nesse projeto você verá um Blog de uma comunidade fictícia onde é possível alunos, experts e a galera Desenvolvedora trocar ideias, criar posts, ver informações dos outros usuários, o que a galera esta falando etc...Blog com funcionalidades básicas utilizando Python( Micro-Framework Flask ) no Back-End e Bootstrap no Front-End.
 
 # :hammer: Funcionalidades do projeto
 
